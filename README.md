@@ -26,6 +26,6 @@ EXP : 9
 
 ![image](https://user-images.githubusercontent.com/112576522/236416320-4cf5b1f6-c224-4924-b791-327e459c5679.png)
 
-EXP: 10 
+EXP: 11 
 
 ![image](https://user-images.githubusercontent.com/112576522/236417244-879e35a2-2235-40b3-8735-3ce1ee935585.png)
