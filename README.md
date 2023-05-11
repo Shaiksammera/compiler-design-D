@@ -42,10 +42,16 @@ exp : 15
 
 ![Screenshot (165)](https://user-images.githubusercontent.com/112576522/237052160-97e1f867-8ce4-4785-a883-f380d460d80c.png)
 
+EXP: 16
+
+![Screenshot (173)](https://github.com/Shaiksammera/compiler-design-D/assets/112576522/23cca795-5ca0-4815-a9c3-8dc8d94c9d93)
+
 
 EXP : 18
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/112576522/237050212-1115e1c1-a70e-4605-9f8c-48a246dddd34.png)
+
+
 
 
 
