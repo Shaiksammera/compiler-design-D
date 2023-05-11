@@ -51,6 +51,11 @@ EXP : 18
 
 ![Screenshot (164)](https://user-images.githubusercontent.com/112576522/237050212-1115e1c1-a70e-4605-9f8c-48a246dddd34.png)
 
+EXP: 19 
+
+![Screenshot (174)](https://github.com/Shaiksammera/compiler-design-D/assets/112576522/56210cc0-d123-46f2-8d4e-d62e403ed9f1)
+
+
 
 
 
