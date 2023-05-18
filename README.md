@@ -55,6 +55,11 @@ EXP: 19
 
 ![Screenshot (174)](https://github.com/Shaiksammera/compiler-design-D/assets/112576522/56210cc0-d123-46f2-8d4e-d62e403ed9f1)
 
+Exp:20 
+
+![Screenshot (188)](https://github.com/Shaiksammera/compiler-design-D/assets/112576522/7a3471f8-38e1-4a63-99c8-f6bba70e4280)
+
+
 
 
 
